@@ -517,13 +517,13 @@ body {
   .text-primary{
     text-transform: uppercase;
     letter-spacing: 32px;
-    font-size: 2em;
+    font-size: 6vw;
     animation: moveLeft 1.5s ease-in;
   }
 
   .text-sub{
     letter-spacing: 15px;
-    font-size: 1em;
+    font-size: 3vw;
     animation: moveRight 1.5s ease-in;
     text-shadow: 0 0 5px white;
   }
