@@ -261,7 +261,20 @@ border:2px solid var(--themeDotBorder);
     bottom:-5px;
     right: -5px
 }
-/* ///////////////////////////////////////////////////////////////////////pocinje odavde */
+
+.link-to{
+  display: inline-block;
+  background: var(--btnColor);
+  border-radius: 4px;
+  font-family: "arial-black";
+  font-size: 14px;
+  color: #FFF;
+  padding: 8px 12px;
+  cursor: pointer;   
+}
+
+
+/* pocinje odavde */
 body {
     /* Typography Declarations */
     color: #222222;
